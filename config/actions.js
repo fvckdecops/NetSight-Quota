@@ -1,0 +1,1 @@
+export const QUOTA_LIST = "quota_list"
