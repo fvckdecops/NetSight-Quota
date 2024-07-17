@@ -1,7 +1,7 @@
 "use client"
 
 import Title from "@/components/customs/title";
-import LoginForm from "@/components/forms/login";
+import LoginForm from "@/components/forms/Login";
 import { Card, CardContent } from "@/components/ui/card";
 
 export default function LoginPage() {
